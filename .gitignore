@@ -1,0 +1,21 @@
+# .gitignore for Python, Flask, and React projects
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.env/
+
+# Node.js
+node_modules/
+build/
+
+# VSCode settings
+.vscode/
+
+# macOS
+.DS_Store
+
+# Backend/Frontend folders
+backend/
+frontend/
