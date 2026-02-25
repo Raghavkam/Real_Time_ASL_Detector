@@ -16,6 +16,3 @@ build/
 # macOS
 .DS_Store
 
-# Backend/Frontend folders
-backend/
-frontend/
